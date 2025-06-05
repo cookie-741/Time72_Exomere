@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_1" data-name="レイヤー_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 172.86 21.94">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-size: 18px;
+      }
+
+      .cls-2 {
+        font-family: Georgia-Italic, Georgia;
+        font-style: italic;
+      }
+
+      .cls-3 {
+        font-family: KozGoPr6N-Regular-83pv-RKSJ-H, 'Kozuka Gothic Pr6N';
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(.26 15.54)"><tspan class="cls-2" x="0" y="0">DISCOVER MORE </tspan><tspan class="cls-3" x="154.6" y=".6">＞</tspan></text>
+</svg>
